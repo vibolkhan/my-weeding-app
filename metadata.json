@@ -1,0 +1,7 @@
+{
+  "name": "Sokha & Bopha's Wedding",
+  "description": "An elegant, mobile-first wedding invitation and celebration app featuring memories, RSVP, and the love story of Sokha and Bopha.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
